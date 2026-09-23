@@ -1,8 +1,11 @@
 <div align="center">
-  <img src=https://github.com/adrnvf/adrnvf/blob/main/i%20adr%20(1).png?raw=true
+
+  <img src="https://raw.githubusercontent.com/adrnvf/adrnvf/refs/heads/main/hi.gif" width="900" alt="Hi, I'm Adriel">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;ADS+Student;Future+Full+Stack+Developer;Always+Learning+%F0%9F%92%BB" alt="Typing SVG">
   </a>
+
 </div>
 
 
